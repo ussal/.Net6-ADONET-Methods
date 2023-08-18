@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ahmet.karadas\\source\\repos\\Net6-ADONET-Methods\\Net6-ADONET-Methods\\Net6-ADONET-Methods.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ahmet.karadas\\source\\repos\\Net6-ADONET-Methods\\Net6-ADONET-Methods\\Net6-ADONET-Methods.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmet.karadas\\source\\repos\\Net6-ADONET-Methods\\Net6-ADONET-Methods\\Net6-ADONET-Methods.csproj",
+        "projectName": "Net6-ADONET-Methods",
+        "projectPath": "C:\\Users\\ahmet.karadas\\source\\repos\\Net6-ADONET-Methods\\Net6-ADONET-Methods\\Net6-ADONET-Methods.csproj",
+        "packagesPath": "C:\\Users\\ahmet.karadas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmet.karadas\\source\\repos\\Net6-ADONET-Methods\\Net6-ADONET-Methods\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmet.karadas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DapperExtensions.NetCore": {
+              "target": "Package",
+              "version": "[2.0.7, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
